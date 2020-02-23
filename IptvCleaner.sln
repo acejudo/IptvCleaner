@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IptvCleaner", "ConsoleApp1\IptvCleaner.csproj", "{9232575E-8183-4F1A-BA8A-6178C966E93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9232575E-8183-4F1A-BA8A-6178C966E93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9232575E-8183-4F1A-BA8A-6178C966E93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9232575E-8183-4F1A-BA8A-6178C966E93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9232575E-8183-4F1A-BA8A-6178C966E93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89AD4EE7-2081-49E0-94CF-7AC2236E001B}
+	EndGlobalSection
+EndGlobal

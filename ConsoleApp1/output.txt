@@ -1,0 +1,10 @@
+#EXTINF:-1,----- TEST IPTV -------
+http://test/test/6862.ts
+#EXTINF:-1,NOR: TEST
+http://test/test/132084.ts
+#EXTINF:-1,NOR: TEST
+http://test/test/132083.ts
+#EXTINF:-1,NOR: TEST
+http://test/test/132082.ts
+#EXTINF:-1,NOR: TEST
+http://test/test/132081.ts
