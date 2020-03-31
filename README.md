@@ -9,6 +9,14 @@ Dellete all extensions that you don´t need in your m3u.txt
 
     "mp4", "mkv", "avi"
 
+# Run 
+    Download App folder
+    Open terminal ( cmd in windows )
+    Navigate to App folder
+    Modify m3u.txt with your iptvs ips.
+    Run .\IptvCleaner.exe
+    A output.txt will be generated.
+    
 # Example
 Input:
 
